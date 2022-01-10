@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap');
+
+*{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+/* body{
+    width: 100%;
+    background-color: #9dc3eb;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    color: #f5faff;
+}
+
+h1{
+    text-align: center;
+    letter-spacing: 4px;
+    padding: 80px 0px;
+    font-size: 56px;
+}
+
+.container{
+    overflow: hidden;
+    text-align: center;
+}
+
+.contents{
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+h2{
+    text-align: center;
+    padding: 0.25em 0.5em;
+    font-size: 32px;
+}
+
+p{
+    display: inline-block;
+    text-align: center;
+}
+
+.portrait{
+    width: 20%;
+    margin: 0 auto;
+}
+
+h3{
+    text-align: center;
+    padding: 0.25em 0.5em;
+}
+
+ul{
+    list-style: none;
+}
+
+.works{
+    width: 400px;
+    margin: 0 auto;
+}
+
+.work{
+    padding: 40px 0;
+}
+
+.work a{
+    padding: 40px 0;
+}
+
+.work img{
+    width: 88%;
+}
+
+footer{
+    text-align: center;
+    letter-spacing: 4px;
+    margin-top: auto;
+} */
