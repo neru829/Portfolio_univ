@@ -35,6 +35,10 @@ body{
     padding: 0 20px;
 }
 
+.flex{
+    display: flex;
+}
+
 img{
     width: 400px;
 }
@@ -122,6 +126,11 @@ h2{
                 }
                 iframe{
                     margin: 24px 0;
+                }
+                .flex{
+                    .sp-img{
+                        width: 112px;
+                    }
                 }
             }
         }

@@ -26,6 +26,12 @@ body {
   padding: 0 20px;
 }
 
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 img {
   width: 400px;
 }
@@ -144,6 +150,10 @@ h2 {
 
 .top-index .sec3 .inner .work iframe {
   margin: 24px 0;
+}
+
+.top-index .sec3 .inner .work .flex .sp-img {
+  width: 112px;
 }
 
 .footer {
